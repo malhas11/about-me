@@ -1,4 +1,5 @@
 'use strict';
+alert('hello');
 
 firstq();
 secondq();
